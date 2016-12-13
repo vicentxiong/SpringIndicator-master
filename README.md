@@ -35,17 +35,11 @@ springIndicator.setViewPager(viewPager);
 ```
 [All xml attributes.](https://github.com/chenupt/SpringIndicator/blob/master/lib%2Fsrc%2Fmain%2Fres%2Fvalues%2Fattrs.xml)
 
-Developed By
----
- * Chenupt - <chenupt@gmail.com>
- * G+ [chenupt](https://plus.google.com/u/0/109194013506774756478)
- * 微博：[chenupt](http://weibo.com/p/1005052159173535/home)
- * QQ：753785666
 
 License
 ---
 
-    Copyright 2015 chenupt
+    Copyright 2015
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
